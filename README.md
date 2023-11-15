@@ -1,15 +1,7 @@
-# Creación de un servicio web RESTful
+# Getting Started Guides
 
-"Hola, mundo" con Spring.
+Guides Spring Boot.
 
 
-## Instalación
+## Paso a paso; guía por guía!
 
-Java 17 o posterior
-Gradle 7.5+ o Maven 3.5+
-
-## Uso
-
-Servicio que aceptará solicitudes
-HTTP GET en http://localhost:8080/greeting.
-Resultado: {"id":2,"content":"Hello, World!"}
